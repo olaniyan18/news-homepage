@@ -128,8 +128,9 @@ nav {
 .bright {
   width: 260px;
   font-size: 50px;
-  font-weight: bolder;
+  font-weight: 800;
   line-height: 0.9;
+  color: hsl(240, 100%, 5%);
 }
 
 .label {
@@ -137,14 +138,13 @@ nav {
   color: hsl(236, 13%, 42%);
   font-size: 15px;
   line-height: 1.5;
-  text-align: justify;
   margin-bottom: 25px;
 }
 
 .button {
   text-transform: uppercase;
   padding: 15px;
-  font-size: 10px;
+  font-size: 15px;
   letter-spacing: 2px;
   background-color: hsl(5, 85%, 63%);
   border: 0;
