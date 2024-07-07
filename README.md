@@ -2,6 +2,8 @@
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
+Preview live: https://olaniyan18.github.io/news-homepage
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
